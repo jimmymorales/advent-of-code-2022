@@ -11,8 +11,8 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 - Template [issue tracker][issues]
 
 ## Solutions
-1. [Day 1: Calorie Counting](src/Day01.kt)
-
+1. [Calorie Counting](src/Day01.kt)
+2. [Rock Paper Scissors](src/Day02.kt)
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
