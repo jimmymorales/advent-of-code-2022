@@ -17,6 +17,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 4. [Camp Cleanup](src/Day04.kt)
 5. [Supply Stacks](src/Day05.kt)
 6. [Tuning Trouble](src/Day06.kt)
+7. [No Space Left On Device](src/Day07.kt)
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
