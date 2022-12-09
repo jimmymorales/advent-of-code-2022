@@ -19,6 +19,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 6. [Tuning Trouble](src/Day06.kt)
 7. [No Space Left On Device](src/Day07.kt)
 8. [Treetop Tree House](src/Day08.kt)
+9. [Rope Bridge](src/Day09.kt)
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
