@@ -21,6 +21,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 8. [Treetop Tree House](src/Day08.kt)
 9. [Rope Bridge](src/Day09.kt)
 10. [Cathode-Ray Tube](src/Day10.kt)
+11. [Monkey in the Middle](src/Day11.kt)
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
