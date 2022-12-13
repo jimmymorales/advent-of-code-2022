@@ -23,6 +23,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 10. [Cathode-Ray Tube](src/Day10.kt)
 11. [Monkey in the Middle](src/Day11.kt)
 12. [Hill Climbing Algorithm](src/Day12.kt)
+13. [Distress Signal](src/Day13.kt)
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.

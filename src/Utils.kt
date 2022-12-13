@@ -28,4 +28,5 @@ fun Long.gcm(value: Long): Long {
 fun Long.lcm(value: Long): Long = (this * value) / (this.gcm(value))
 fun List<Long>.lcm(): Long = reduce(Long::lcm)
 
-fun List<Long>.produce() = reduce { op1, op2 -> op1 * op2 }
+fun List<Int>.product() = reduce { op1, op2 -> op1 * op2 }
+fun List<Long>.product() = reduce { op1, op2 -> op1 * op2 }

@@ -41,7 +41,7 @@ fun main() {
             .calculateInspections(rounds = 20) { it / 3 }
             .sortedDescending()
             .take(2)
-            .produce()
+            .product()
     }
 
     fun part2(input: List<String>): Long {
@@ -51,7 +51,7 @@ fun main() {
             .calculateInspections(rounds = 10_000) { it % lcm }
             .sortedDescending()
             .take(2)
-            .produce()
+            .product()
     }
 
     // test if implementation meets criteria from the description, like:
