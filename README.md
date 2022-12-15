@@ -25,6 +25,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 12. [Hill Climbing Algorithm](src/Day12.kt)
 13. [Distress Signal](src/Day13.kt)
 14. [Regolith Reservoir](src/Day14.kt)
+15. [Beacon Exclusion Zone](src/Day15.kt)
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
